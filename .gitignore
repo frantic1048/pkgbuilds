@@ -1,0 +1,14 @@
+# dolphin
+.directory
+
+# pkg building files
+*.7z
+*.tar.xz
+*.tar.gz
+
+# detached signature
+*.sig
+
+# makepkg
+/*/src/
+/*/pkg/
