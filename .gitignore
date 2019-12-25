@@ -5,6 +5,7 @@
 *.7z
 *.tar.xz
 *.tar.gz
+*.tar.zst
 
 # detached signature
 *.sig
